@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @szg1
 - 👀 I’m interested in Ethical hacking
-- 🌱 I’m currently learning networking in C++ and batch
+- 🌱 I’m currently learning C++ and bash
 - 📫 Reach me by email: szgergodev@gmail.com
 
 <!---
