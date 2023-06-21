@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @szg1
-- 👀 I’m interested in Ethical hacking
-- 🌱 I’m currently learning C++ and bash
+- 👀 I’m interested in Ethical hacking, Critical systems, Web development, Cryptography, and Microcontroller programming.
 - 📫 Reach me by email: szgergodev@gmail.com
 
 <!---
