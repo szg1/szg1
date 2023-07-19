@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @szg1
-- 👀 I’m interested in Ethical hacking, Critical systems, Web development, Cryptography, and Microcontroller programming.
+- 👀 I’m interested in Penetration testing, Web development, Cryptography, and Microcontroller programming.
 - 📫 Reach me by email: szgergodev@gmail.com
 
 <!---
